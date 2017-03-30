@@ -1,0 +1,2 @@
+In my myRecipe.js file, I animated the page by making the content of the list and paragraph tags display when they are scrolled over.
+I also used a DOM traversal statements to make CSS changes to the page by enlarging the font.

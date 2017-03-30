@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 31, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Chelsea Mohammed)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment uses jquery and Document Object	
+Model (DOM) traversal statements to customize a recipe display application.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson, I learned how to write and use DOM traversal statements to refer to parent and child nodes using jQuery.)
+2. (I learned how to use jQuery to customize CSS attributes in an application.)
+3. (I learned how to animate elements on pages and create events using jQuery.)
