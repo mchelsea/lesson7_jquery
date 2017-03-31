@@ -14,7 +14,7 @@ LIS 2360:  Web Application Development
 Model (DOM) traversal statements to customize a recipe display application.)
 
 ### View Project:
-(https://mchelsea.github.io/lesson7_jquery/
+(https://mchelsea.github.io/lesson7_jquery/Lesson7_Assignment/index.html
 
 https://mchelsea.github.io/lesson7_jquery/Lesson7_Assignment/index2.html
 
