@@ -15,8 +15,8 @@ Model (DOM) traversal statements to customize a recipe display application.)
 
 ### View Project:
 (https://mchelsea.github.io/lesson7_jquery/
- https://mchelsea.github.io/mohammed_lesson7_jquery/Lesson7_Assignment_Files/index.html
- https://mchelsea.github.io/mohammed_lesson7_jquery/Lesson7_Assignment_Files/Lesson7_MyRecipe/myRecipe.html.)
+ https://mchelsea.github.io/mohammed_lesson7_jquery/Lesson7_Assignment/index.html
+ https://mchelsea.github.io/mohammed_lesson7_jquery/Lesson7_Assignment/Lesson7_MyRecipe/myRecipe.html.)
 
 ### Lessons Learned in the Assignment:
 1. (In this lesson, I learned how to write and use DOM traversal statements to refer to parent and child nodes using jQuery.)
